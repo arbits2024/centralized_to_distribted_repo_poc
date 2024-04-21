@@ -7,6 +7,9 @@ This is a sample Spring Boot application using Maven as the build tool. This REA
 
 Devops_Assignment_Amit_Raina (1)
 
+https://docs.google.com/document/d/1V4U-bFoB2LGknxz-tmu7rH6qowub75c8rm3YIUwbnYc/edit
+
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
